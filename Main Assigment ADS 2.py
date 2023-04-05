@@ -98,7 +98,7 @@ print(countries)
 future accessibilty and ease of data analytical datasets that combine all 
 countries on each indicator will be created in five years increments from 1990 to 2010
 """
-# Creating a dataframe for all selected countries on Urban population
+# generating a dataframe for all selected countries on Urban population
 urban_pop=countries.iloc[[1,6,11,16,21],[0,4,8,12,16,20,24]]
 
 # transforming from dataframe data type to a numeric format
