@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 
 
 """
-generating a def function to read in the world bank climate datasets and returns  two 
+creating a def function to read in the world bank climate datasets and returns  two 
 dataframes:one with years as columns, the other with nations
 """
 
